@@ -1,0 +1,151 @@
+.pink {
+  position: relative;
+  width: 1440px;
+  height: 690px;
+  background: linear-gradient(180deg, #FF6A88 0%, #FF99AC 100%);
+}
+.white {
+  position: relative;
+  width: 1440px;
+  height: 1166px;
+  background: white;
+}
+ body {
+   margin: 0;
+ }
+ .name {
+position: absolute;
+width: 585px;
+height: 79px;
+top: 200.74px;
+left:720px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 87px;
+
+color: #FFFFFF;
+ }
+.rec {
+  position: absolute;
+width: 195px;
+height: 10px;
+top: 290.74px;
+left:720px;
+background: #F7D584;
+}
+.text1{
+  position: absolute;
+width: 565px;
+height: 160px;
+top: 330.74px;
+left:720px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+}
+.contHead{
+  position: absolute;
+width: 325px;
+height: 92px;
+top: 221px;
+left: 211px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 87px;
+
+color: #000000;
+
+}
+.rec2{
+  position: absolute;
+width: 190px;
+height: 10px;
+top: 341px;
+left: 215px;
+background: #F7D584;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.alloNahyi_PolskiyFilosof{
+  position: absolute;
+width: 325px;
+height: 263px;
+top: 400px;
+left: 211px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 33px;
+
+color: #000000;
+
+}
+.rec3{
+  position: absolute;
+  width: 400px;
+  height: 427px;
+  top:267px;
+  left: 900px;
+  background: linear-gradient(180deg, #4BBEFF 0%, #329DDA 100%);
+}
+.foto{
+  position: absolute;
+  width: 427px;
+  height: 427px;
+  top: 250px;
+
+  left: 860px;
+}
+.foto1{
+  position: absolute;
+width: 102px;
+height: 500px;
+}
+.labHead{
+position: absolute;
+width: 507px;
+height: 80px;
+top:828px;
+left:675px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 65px;
+
+color: #000000;
+
+}
+.rec4{
+  position: absolute;
+width: 254px;
+height: 13px;
+top:928px;
+left:700px;
+
+background: #F7D584;
+}
+.text2{
+  position: absolute;
+width: 584px;
+height: 38px;
+top:980px;
+left:600px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 33px;
+
+color: rgba(0, 0, 0, 0.62);
+
+}
