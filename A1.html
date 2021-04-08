@@ -8,35 +8,6 @@
 </head>
 <body>
   <a href="index.html"><img src="asd.png"></a>
- <br> Factorial 
 
-<br>%swi-prolog 7.6.4
-<br>factorial(0,1).  %Граничное условие 0!=1
-<br>%Рекурсивное условие N!=N*(N-1)!
-<br>factorial(N,F):- 
-   <br>        N1 is N-1,
-      <br>     factorial(N1,F1),
-       <br>    F is N*F1.
-<br>program :- factorial(4,X), write(X).
-<br>:- program. 
-
-
-
-<br>JavaScript 
-
-<br>alert(factorial(3));
-<br>function factorial(n) 
- <br> {
- <br>    var reuslt;
- <br>    //Граничное условие 0!=1
-  <br>   if(n == 0) return 1;
-
-  <br>   //Рекурсивное условие n!=n*(n-1)!
-  <br>   result=n*factorial(n-1);
-  <br>   return result;
-  <br>}
-
-
-<br>JavaScript
 </body>
 </html>
